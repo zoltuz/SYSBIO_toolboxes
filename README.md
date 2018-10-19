@@ -1,5 +1,5 @@
 # SYSBIO Toolboxes
-This projects compares the currently available toolboxes that are used in Systems/Synthetic Biology projects
+This project compares the currently available toolboxes that are used in Systems/Synthetic Biology projects
 
 [General info](general.md)
 
