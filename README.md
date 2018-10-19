@@ -1,7 +1,7 @@
 # SYSBIO Toolboxes
 This project compares some of the currently available toolboxes that are used in Systems/Synthetic Biology projects
 
-[General info](general.md)
+[General info](general_info.md)
 
 [Compare Visualization capabilities](visualization.md)
 
